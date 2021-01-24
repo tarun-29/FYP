@@ -20,7 +20,6 @@ function Landing() {
                                     <h1>Welcome to Mediator</h1>
                                     <p>We are here to save you from online fraud and make your transaction very smooth. <br/>
                                     If you don't trust the deal please don't loose your assets on that deal. <br/>
-                                    We will help you to finalize your deal with full protection.
                                     </p>
                                     <Button style={{marginRight: 10}} variant="primary">Log In</Button>
                                     <Button style={{marginLeft: 10}} variant="info">Sign Up</Button>
